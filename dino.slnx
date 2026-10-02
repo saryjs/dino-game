@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="dino/dino.vcxproj" Id="69aae532-9dfd-4ce5-89c6-bb7a70ea8eeb" />
+</Solution>
